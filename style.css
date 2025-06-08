@@ -118,11 +118,13 @@ body {
     font-size: 120px;
     font-weight: 900;
     margin-bottom: 12px;
+    color: #0027D5;
 }
 .banner-content .sub-title {
     font-size: 28px;
     font-weight: 700;
     margin-top: 20px;
+    color: #0027D5;
 }
 
 @media (max-width: 767px) {
